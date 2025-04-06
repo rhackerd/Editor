@@ -1,8 +1,0 @@
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/CMakeFiles/edit_cache.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/CMakeFiles/rebuild_cache.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/core/CMakeFiles/core.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/core/CMakeFiles/edit_cache.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/core/CMakeFiles/rebuild_cache.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/app/CMakeFiles/app.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/app/CMakeFiles/edit_cache.dir
-C:/Users/rhacker/OneDrive/Documents/CMake template/template-cmake/build/src/app/CMakeFiles/rebuild_cache.dir
