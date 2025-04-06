@@ -1,0 +1,6 @@
+# ninja log v6
+57	430	7656025716421046	src/app/CMakeFiles/app.dir/main.cpp.obj	54f29b1d0302e3a1
+25	778	7656025716096020	src/core/CMakeFiles/core.dir/core.cpp.obj	be7d865830c87149
+52	812	7656025716371051	src/core/CMakeFiles/core.dir/logger.cpp.obj	e42eeb77e44bad0
+812	1148	7656025723966046	src/core/libcore.a	83aaea85519c01ce
+1149	1339	7656025727336031	bin/app.exe	6572429f49f81be8
