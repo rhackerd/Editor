@@ -24,3 +24,5 @@ build.ninja
 CMakeCache.txt
 CMakeFiles
 bin
+.cache
+compile_commands.json

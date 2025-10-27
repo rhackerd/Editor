@@ -1,14 +1,16 @@
-#include "core.h"
-#include <logger.h>
+#include "include/core.h"
+#include <nova/logger/logger.hpp>
 
-Core::Core() {}
+Core::Core() {
+    Nova::Logger::init("Template-Cmake");
+}
 
 Core::~Core() {}
 
 void Core::load() {
-    Logger::success("Core loaded successfully", true);
+    Nova::Logger::info("Core loaded.");
 }
 
 void Core::unload() {
-    Logger::success("Core unloaded successfully", true);
+    Nova::Logger::info("Core unloaded");
 }
