@@ -1,14 +1,13 @@
-#include "core.h"
-#include <logger.h>
-
-Core::Core() {}
+#include "include/core.h"
+Core::Core(): _l("Cmake Template") {
+}
 
 Core::~Core() {}
 
 void Core::load() {
-    Logger::success("Core loaded successfully", true);
+    _l.info("Core loaded.");
 }
 
 void Core::unload() {
-    Logger::success("Core unloaded successfully", true);
+    _l.info("Core unloaded");
 }

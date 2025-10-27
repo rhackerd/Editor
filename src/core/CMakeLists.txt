@@ -1,4 +1,4 @@
-file(GLOB_RECURSE core_sources
+file(GLOB_RECURSE core_sources CONFIGURE_DEPENDS
     "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp"
     "${CMAKE_CURRENT_SOURCE_DIR}/*.h"
 )
@@ -13,4 +13,5 @@ target_include_directories(core PUBLIC
 target_link_libraries(core
     PUBLIC
         fmt::fmt        # String formatting
+        Nova::Logger
 )
